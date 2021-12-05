@@ -11,7 +11,7 @@ If the current cell is destination return true.
 return true else unmark the cell and return false.
 
 # Steps to run the program:
-Download the project or clone the code to your favorite IDE (https://github.com/gdimitriou/match-service.git).
+Download the project or clone the code to your favorite IDE (https://github.com/gdimitriou/maze-challenge.git).
 
 Run:
 Run Main.main();
